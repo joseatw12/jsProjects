@@ -1,4 +1,4 @@
-let myNumber = 576;
+let myNumber = 72101108108111;
 
 let binary = "";
 

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33b51d39-17a3-4384-8f3c-6fa44f317b81" name="Changes" comment="Arrays yay">
+    <list default="true" id="33b51d39-17a3-4384-8f3c-6fa44f317b81" name="Changes" comment="Got it Glory to God">
+      <change beforePath="$PROJECT_DIR$/ jsProjects/based-numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/ jsProjects/based-numbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ jsProjects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ jsProjects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,9 @@
       <workItem from="1737255504498" duration="1854000" />
       <workItem from="1737330668148" duration="8515000" />
       <workItem from="1737432852972" duration="1337000" />
-      <workItem from="1737521357969" duration="634000" />
+      <workItem from="1737521357969" duration="1912000" />
+      <workItem from="1737579956448" duration="721000" />
+      <workItem from="1737693423352" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -151,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737521768084</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Got it Glory to God">
+      <option name="closed" value="true" />
+      <created>1737522040289</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737522040289</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Got it Glory to God">
+      <option name="closed" value="true" />
+      <created>1737522053569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737522053569</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +183,7 @@
     <MESSAGE value="Working on Binary Numbers" />
     <MESSAGE value="Codédex Club wohoo" />
     <MESSAGE value="Arrays yay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays yay" />
+    <MESSAGE value="Got it Glory to God" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got it Glory to God" />
   </component>
 </project>
