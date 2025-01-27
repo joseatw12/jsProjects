@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33b51d39-17a3-4384-8f3c-6fa44f317b81" name="Changes" comment="Got it Glory to God">
-      <change beforePath="$PROJECT_DIR$/ jsProjects/based-numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/ jsProjects/based-numbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ jsProjects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ jsProjects/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="33b51d39-17a3-4384-8f3c-6fa44f317b81" name="Changes" comment="Methods!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +93,7 @@
       <workItem from="1737432852972" duration="1337000" />
       <workItem from="1737521357969" duration="1912000" />
       <workItem from="1737579956448" duration="721000" />
-      <workItem from="1737693423352" duration="307000" />
+      <workItem from="1737693423352" duration="3688000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -171,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737522053569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Methods!">
+      <option name="closed" value="true" />
+      <created>1737693991774</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693991774</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +188,7 @@
     <MESSAGE value="Codédex Club wohoo" />
     <MESSAGE value="Arrays yay" />
     <MESSAGE value="Got it Glory to God" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got it Glory to God" />
+    <MESSAGE value="Methods!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods!" />
   </component>
 </project>
