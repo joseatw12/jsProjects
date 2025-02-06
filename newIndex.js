@@ -4,17 +4,17 @@ const characters = [
     "Fritz",
     "Wizard Whitebeard",
     "Odlaw",
-    // "Waldo",
+    "Waldo",
     "Woof"
 ];
 
-let waldoIndex = (characters.indexOf("Waldo"));
+// let waldoIndex = (characters.indexOf("Waldo"));
 
 // console.log("Found Waldo at index", waldoIndex,"!");
 
-if (waldoIndex > -1) {
-
-    console.log("Found Waldo at index", waldoIndex,"!");
+if (characters.includes("Waldo")) {
+    const waldoIndex = characters.indexOf("Waldo");
+    console.log("Found Waldo at index " + waldoIndex, "!");
 
 } else {
 
